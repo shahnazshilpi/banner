@@ -1,0 +1,153 @@
+.Cbanner{
+background-color: #546161;
+padding: 150px;
+background-blend-mode: multiply;
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+background-image: url(https://cdn.pixabay.com/photo/2016/11/22/19/08/hangers-1850082_1280.jpg)
+    
+   }
+
+body{
+	margin: 0;
+
+}
+
+p{
+	margin: 0;
+}
+
+.mbox1{
+	width: 400px;
+	margin: 0;
+	
+}
+
+.Cbanner p{
+font-family: serif;
+    color: #e38dff;
+    font-style: italic;
+    font-weight: bold;
+    font-size: x-large;
+    margin-top: 20px;
+}
+
+.Cbanner h1{
+    font-family: serif;
+    color: #e9bdbd;
+    font-style: italic;
+    font-weight: bold;
+    font-size: xxx-large;
+    margin-block: auto;
+}
+
+.Cbanner h6{
+font-family: serif;
+    color: #aaaaaa;
+    font-style: italic;
+    font-weight: bold;
+    font-size: initial;
+    animation-direction: initial;
+    margin-block: auto;
+}
+
+.gallery_men{
+	background-color: #546161;
+padding: 150px;
+background-blend-mode: multiply;
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+	background-image: url(https://media.istockphoto.com/id/870572130/photo/man-enjoyig-shopping.jpg?s=1024x1024&w=is&k=20&c=XTHtAchj_0qfugKHci5dyZ3AEO0lpUKFzn1Fdp7n06I=)
+}
+
+.mboxs{
+	width: 400px;
+	margin: 0;
+	
+}
+
+.subcat{
+
+				
+			}
+
+.mainbox{
+    display: flex;
+    justify-content: space-between;
+    height: 500px;
+background-color: darkkhaki;
+			
+			}
+
+
+
+.box_men{
+			flex-basis: 33.33%;	
+			    background-color: #b3a18c;
+    background-blend-mode: soft-light;
+			
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+			background-image: url(https://media.istockphoto.com/id/870572130/photo/man-enjoyig-shopping.jpg?s=1024x1024&w=is&k=20&c=XTHtAchj_0qfugKHci5dyZ3AEO0lpUKFzn1Fdp7n06I=)
+
+
+			}
+
+
+
+.box_women{
+			flex-basis: 33.33%;		
+			    background-color: #b97bb1;
+    background-blend-mode: screen;
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+			background-image: url(https://media.istockphoto.com/id/1208331222/photo/young-adult-girl-standing-near-wardrobe-at-home.jpg?s=1024x1024&w=is&k=20&c=8mSt1p9zZjuDCJc6kVAnwQ_bgB1rXG2TUyqmrtnPhS0=)		}
+
+.box_child{
+				flex-basis: 33.33%;	
+				    background-color: #86979a;
+    background-blend-mode: color-dodge;
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+				background-image: url(https://media.istockphoto.com/id/477001758/photo/dressing-closet-with-baby-clothes-arranged-on-hangers.jpg?s=1024x1024&w=is&k=20&c=t1iUjfdgiNImup1LQbUMqL6i6DRwaFZKGk5KmxHLosc=)
+
+			}
+
+
+.category{
+
+    margin-top: 85px;
+    margin-bottom: 10px;
+    padding: 20px 0;
+    color: #343e8f;
+    text-align: center;
+}
+
+.item a{
+	                    width: 100px;
+    display: flex;
+   
+    background: linear-gradient(110deg, rgb(91 75 103), rgb(44 110 207) 100%);
+    color: white;
+    text-decoration: wavy;
+    font-size: 20px;
+    padding: 5px 5%;
+    
+    border-radius: 50px;
+    margin: auto;
+}
+
+.offer{
+
+    margin-top: 0px;
+    margin-bottom: 10px;
+    padding: 20px 0;
+    color: #343e8f;
+    text-align: center;
+}
